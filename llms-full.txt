@@ -1,0 +1,76 @@
+# Orbizion — Full Context & Machine-Readable Index
+
+This file provides comprehensive context regarding Orbizion's digital operations, service architectures, technical standards, and institutional offerings for Large Language Models (LLMs) and autonomous AI retrieval agents.
+
+---
+
+## 1. Company Overview
+
+- **Legal / Brand Name**: Orbizion
+- **Operating Headquarters**: Peshawar, Khyber Pakhtunkhwa, Pakistan
+- **Client Footprint**: Pakistan, United Arab Emirates, Saudi Arabia, United Kingdom, and the United States
+- **Official Canonical URL**: https://orbizion.vercel.app/
+- **Inquiry Email**: orbizion.contact@gmail.com
+- **Direct Phone / WhatsApp**: +92 330 3785185
+- **Brand Vision**: "BUILT FOR WHAT'S NEXT." Transforming digital presences through zero-latency web engineering, precision Meta advertising, and localized SEO dominance.
+
+---
+
+## 2. Detailed Service Specifications
+
+### 2.1 Custom Web & Full-Stack Software Development
+- **Focus**: Eliminating heavy render bottlenecks, ensuring sub-second Time to First Byte (TTFB), and achieving perfect Google Lighthouse scores.
+- **Tech Stack**: Modern JavaScript / TypeScript, React, Next.js, Tailwind CSS, RESTful & GraphQL APIs, Node.js, and serverless hosting infrastructures (Vercel, Firebase).
+- **Deliverables**: Enterprise web portals, SaaS platforms, corporate portfolio systems, dynamic clinic patient booking portals, and interactive product catalogs.
+
+### 2.2 Mobile Application Development
+- **Focus**: Smooth 60fps animations, cross-platform codebases, and offline-first capabilities.
+- **Platforms**: Android and iOS via React Native and modern native bridges.
+- **Use Cases**: E-commerce retail apps, clinic/patient appointment tools, educational student portals, and business operations apps.
+
+### 2.3 Search Engine Optimization (SEO)
+- **Technical SEO**: Core Web Vitals optimization, semantic HTML5 hierarchy, JSON-LD Schema structured data, crawl budget maximization, canonicalization, and XML sitemaps.
+- **Local SEO**: Google Business Profile (GBP) claimed verification, local pack top-3 ranking optimization, NAP (Name, Address, Phone) consistency, and neighborhood-specific keyword targeting.
+- **Content SEO**: Long-tail search discovery, educational pillar content, and medical/educational compliance copywriting.
+
+### 2.4 Meta Ads & Meta Business Profile Management
+- **Focus**: High-ROAS (Return on Ad Spend) customer acquisition for consumer and healthcare/education sectors.
+- **Capabilities**: Meta Business Suite verification, Meta Pixel & Conversions API (CAPI) implementation, ad creative production, copy testing, custom audience retargeting, and lookalike modeling.
+
+### 2.5 Brand Identity & Visual Design
+- **Deliverables**: Vector logos (SVG, PNG, print-ready formats), brand style guides, corporate typography selections, color contrast standards, stationery kits, and social media media kits.
+
+### 2.6 Advanced Special Request Solutions
+- **Cloud Architecture & DevOps**: Infrastructure as Code, CI/CD pipeline automation, and multi-region deployment strategies.
+- **Cybersecurity Assessments**: Vulnerability checks, HTTPS and CSP compliance auditing, and secure authentication flow architecture.
+- **AI Integrations**: Retrieval-Augmented Generation (RAG) assistants, custom AI API connectors, and automated workflows.
+
+---
+
+## 3. Specialized Industry Solutions
+
+### Healthcare & Medical Clinics
+- Dedicated Portal: https://orbizion.vercel.app/seo-for-clinics/
+- Focus: Local doctor discovery, patient appointment conversions, verified clinic listings on Google Maps, and trust-oriented web experiences.
+
+### Schools & Educational Institutions
+- Dedicated Portal: https://orbizion.vercel.app/seo-for-schools/
+- Focus: Student admission inquiries, parent information hubs, event calendars, and prominent local academic search placement.
+
+---
+
+## 4. Privacy & Compliance Philosophy
+- Documented Policy: https://orbizion.vercel.app/privacy/
+- **Pledge**: Orbizion respects user privacy. The site operates with zero silent tracking scripts, zero background credential harvest, and zero data brokering. All analytics are transparent and respectful of consumer data protection standards.
+
+---
+
+## 5. Official Social & Contact Directory
+
+- **WhatsApp**: https://wa.me/923303785185
+- **Email**: orbizion.contact@gmail.com
+- **LinkedIn**: https://www.linkedin.com/company/orbizion/
+- **Instagram**: https://www.instagram.com/orbizion
+- **Facebook**: https://www.facebook.com/share/1BXAVpMPuQ/
+- **XML Sitemap**: https://orbizion.vercel.app/sitemap.xml
+

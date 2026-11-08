@@ -1,0 +1,29 @@
+# Orbizion robots.txt
+# Domain: https://orbizion.vercel.app
+
+User-agent: *
+Allow: /
+
+# AI search and answer engines are welcome. They may read the site,
+# sitemap and llms.txt to understand Orbizion and cite it.
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: CCBot
+Allow: /
+
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /scratch/
+
+Host: https://orbizion.vercel.app
+Sitemap: https://orbizion.vercel.app/sitemap.xml
